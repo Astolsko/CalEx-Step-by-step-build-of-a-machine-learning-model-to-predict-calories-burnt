@@ -35,6 +35,7 @@ To run the code in this project, you'll need the following dependencies:
 - Python (version >= 3.6)
 - NumPy
 - Pandas
+- Seaborn
 - Scikit-learn
 - XGBoost
 
